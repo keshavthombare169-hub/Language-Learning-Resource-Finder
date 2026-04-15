@@ -6,8 +6,7 @@ import os
 import google.generativeai as genai
 
 def get_model():
-    # api_key = os.environ.get("GEMINI_API_KEY")
-    api_key = "AIzaSyA1UV-uz3DHhm2u7NiYg2lS7MCnIU4FTuw"
+    api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         raise ValueError(
             "GEMINI_API_KEY not set. "

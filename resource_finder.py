@@ -30,8 +30,7 @@ Find it: ...
 
 def tavily_search(query: str, max_results: int = 8) -> list[dict]:
     """Call Tavily Search API and return results."""
-    # api_key = os.environ.get("TAVILY_API_KEY")
-    api_key = "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"
+    api_key = os.environ.get("TAVILY_API_KEY")
     if not api_key:
         raise ValueError(
             "TAVILY_API_KEY not set. "
