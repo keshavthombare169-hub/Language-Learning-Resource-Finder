@@ -1,6 +1,6 @@
 ﻿# 🌐 Language Learning Resource Finder
+ ---
 ### Semester IV · Introduction to Agentic AI Systems
-
 A fully deployed, end-to-end AI agent that finds personalised language learning
 resources and drafts a 30-day study plan — using **Gemini API (free)** +
 **Tavily Search (free)** + **LLM-as-Judge**.
@@ -96,6 +96,7 @@ streamlit run app.py
 ```
 
 Open http://localhost:8501 in your browser.
+## public host:-https://language-learning-resource-finder.streamlit.app/
 
 ---
 
@@ -156,7 +157,7 @@ TAVILY_API_KEY = "your_key_here"
 Scores are 0–100 per dimension. The judge also returns a one-line verdict and 2–3 improvement suggestions.
 
 ---
-## LOOM VIDEO LINK
+## LOOM VIDEO LINK :-https://language-learning-resource-finder.streamlit.app/
 
 ## 🛠️ Tech Stack
 
