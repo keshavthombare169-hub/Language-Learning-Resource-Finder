@@ -96,7 +96,6 @@ streamlit run app.py
 ```
 
 Open http://localhost:8501 in your browser.
-public host:-https://language-learning-resource-finder.streamlit.app/
 
 ---
 
@@ -144,6 +143,8 @@ TAVILY_API_KEY = "your_key_here"
 ```
 5. Click **Deploy** — you get a free public URL ✅
 
+
+public URL:-https://language-learning-resource-finder.streamlit.app/
 ---
 
 ## ⚖️ LLM-as-Judge Rubric
