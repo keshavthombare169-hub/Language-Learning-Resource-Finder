@@ -96,7 +96,7 @@ streamlit run app.py
 ```
 
 Open http://localhost:8501 in your browser.
-## public host:-https://language-learning-resource-finder.streamlit.app/
+public host:-https://language-learning-resource-finder.streamlit.app/
 
 ---
 
@@ -157,7 +157,6 @@ TAVILY_API_KEY = "your_key_here"
 Scores are 0–100 per dimension. The judge also returns a one-line verdict and 2–3 improvement suggestions.
 
 ---
-## LOOM VIDEO LINK :-https://language-learning-resource-finder.streamlit.app/
 
 ## 🛠️ Tech Stack
 
