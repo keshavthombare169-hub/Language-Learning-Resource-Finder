@@ -4,7 +4,7 @@
  
  1.Divya Agrawal
  
- 2.KeshavThombare
+ 2.Keshav Thombare
  
  ---
 ### Semester IV · Introduction to Agentic AI Systems
