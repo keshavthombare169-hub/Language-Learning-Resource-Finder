@@ -1,4 +1,11 @@
 ﻿# 🌐 Language Learning Resource Finder
+
+ Group Member
+ 
+ 1.Divya Agrawal
+ 
+ 2.KeshavThombare
+ 
  ---
 ### Semester IV · Introduction to Agentic AI Systems
 A fully deployed, end-to-end AI agent that finds personalised language learning
