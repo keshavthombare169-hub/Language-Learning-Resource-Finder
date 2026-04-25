@@ -187,4 +187,8 @@ Scores are 0–100 per dimension. The judge also returns a one-line verdict and 
 
 ---
 
+Loom URL:-https://www.loom.com/share/de4f132f258d4cfeb601c6df5cb65faf
+
+---
+
 *Semester IV · B.E. Electronics & Communication · Introduction to Agentic AI Systems*
